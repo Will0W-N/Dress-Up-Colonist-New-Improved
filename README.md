@@ -2,7 +2,7 @@
 
 A RimWorld mod that allows you to fully customize the visual appearance of your colonists' apparel, headwear, and body models without affecting their actual equipment stats, armor values, or performance.
 
-Updated and overhauled for **RimWorld 1.5, 1.6, and 1.7**.
+Updated the 1.5 mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3232918791 to 1.6 and 1.7
 
 ---
 
