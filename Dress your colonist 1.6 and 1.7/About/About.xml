@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Dress Up Colonist: New &amp; Improved</name>
+	<packageId>Willow.DressUpColonistNew</packageId>
+	<author>Willow</author>
+	<supportedVersions>
+		<li>1.5</li>
+		<li>1.6</li>
+		<li>1.7</li>
+	</supportedVersions>
+	<incompatibleWith>
+		<li>Udon.DressUpColonist</li>
+	</incompatibleWith>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+	<modIconPath IgnoreIfNoMatchingField="True">Icon/DuC_ModIcon</modIconPath>
+	<description>■ About
+		Dress Up Colonist allows you to fully customize the visual appearance of your colonists' clothing, headwear, and animal models without affecting their actual stats or performance.
+
+		■ Features &amp; What's New
+		- **Visual Overrides:** Swap apparel, gear, and hats to look like any item in the game with clean UI menus.
+		- **Animal Model Overrides:** Turn your colonists into animals (fully compatible with modded animal races) complete with dedicated reset controls.
+		- **Ideology Style Selection:** Choose alternate style variants with live icon previews. 
+		- **Body Type Customization:** Fine-tune visuals across different adult body shapes using icon grids with tooltip labels.
+		- **Full Loadout Copy &amp; Paste:** Clone entire outfit setups, colors, styles and layer offsets between colonists instantly with Copy All / Paste All.
+		- **Basic Material Defaults:** Newly generated overrides spawn unstyled and default to baseline materials like steel or cloth automatically.
+		- **Improved Stability:** Updated for RimWorld versions 1.5, 1.6, and 1.7 with fixed Harmony integration, safe helmet/apparel checks, and cleaned-up localization.
+	</description>
+</ModMetaData>
