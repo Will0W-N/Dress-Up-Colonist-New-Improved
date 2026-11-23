@@ -17,6 +17,12 @@ Updated the 1.5 mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3232
 
 ---
 
+## Notes
+
+* **never been tested with warcaskets, mechs, dragoon or any other non vanilla ish attire. use wisely. 
+
+---
+
 ## What Changed (vs. Original Mod)
 
 * **RimWorld 1.6 & 1.7 Support:** Updated Harmony patches, render tree handling, and `PawnKindDef` lookups to work cleanly with modern RimWorld versions.
